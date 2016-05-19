@@ -20,7 +20,7 @@
         "symfony/phpunit-bridge": "~2.7|~3.0"
     },
     "autoload": {
-        "psr-4": { "ChangelogParser\\": "" }
+        "psr-4": { "ChangelogParser\\ChangelogParserBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
